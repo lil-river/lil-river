@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hannah!:
+# Hi 👋, I'm Hannah!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-vestal-b80605331/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannahjvestal@gmail.com) 
 
 I am a motivated and detailed-oriented college senior majoring in computer science: cybersecurity who loves to build things that can help keep people safe.
